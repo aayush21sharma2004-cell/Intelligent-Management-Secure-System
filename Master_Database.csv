@@ -1,0 +1,31 @@
+Code,Name,Price,Genre
+F01,Doritos Cheese,30,Food
+F02,Oreo Biscuits,35,Food
+F03,Red Bull Energy,125,Food
+F04,Kelloggs Cornflakes,190,Food
+F05,Nutella Jar,350,Food
+F06,Pringles Chips,110,Food
+F07,Tropicana Juice,100,Food
+F08,Maggi Noodles,14,Food
+F09,Cadbury Silk,80,Food
+F10,Kissan Jam,120,Food
+E01,Logitech Mouse,1495,Electronics
+E02,Razer Keyboard,4500,Electronics
+E03,Sony Controller,5990,Electronics
+E04,Samsung SSD 1TB,7000,Electronics
+E05,Arduino Uno,550,Electronics
+E06,Raspberry Pi 4,6500,Electronics
+E07,JBL Speaker,9999,Electronics
+E08,AirPods Pro,24900,Electronics
+E09,OnePlus Charger,1999,Electronics
+E10,GoPro Hero 11,41000,Electronics
+G01,Basmati Rice 5kg,699,Grocery
+G02,Sunflower Oil 1L,145,Grocery
+G03,Aashirvaad Atta,440,Grocery
+G04,Tata Salt,28,Grocery
+G05,Tata Tea Gold,290,Grocery
+G06,Nescafe Coffee,310,Grocery
+G07,Amul Butter,275,Grocery
+G08,Dettol Handwash,99,Grocery
+G09,Surf Excel,460,Grocery
+G10,Colgate Paste,120,Grocery
